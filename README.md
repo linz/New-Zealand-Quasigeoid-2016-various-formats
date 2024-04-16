@@ -11,6 +11,8 @@ International Service for the Geoid (ISG) (.txt)
 
 Eye4Software (.geo)
 
+US National Geodetic Service (.bin)
+
 GeoTiff (.tif) Can be downloaded from: https://data.linz.govt.nz/layer/53447-nz-quasigeoid-2016-raster/
 
 Grid (.csv) Can be downloaded from:  https://data.linz.govt.nz/layer/53418-nz-quasigeoid-2016/
