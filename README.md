@@ -6,7 +6,7 @@ Natural Resources Canada (.byn)
 
 US National Geodetic Service (.bin)
 
-Descriptions of the .byn and .bin formats are provided in the following pdf by Natural Resources Canada: https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/gpshgrid_e.pdf
+  Descriptions of the .byn and .bin formats are provided in the following pdf by Natural Resources Canada: https://natural-resources.canada.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/gpshgrid_e.pdf
 
 Sideris ASCII (.sid)
 
@@ -16,7 +16,6 @@ International Service for the Geoid (ISG) (.txt)
 
 Eye4Software (.geo)
 
-US National Geodetic Service (.bin)
 
 GeoTiff (.tif) Can be downloaded from: https://data.linz.govt.nz/layer/53447-nz-quasigeoid-2016-raster/
 
