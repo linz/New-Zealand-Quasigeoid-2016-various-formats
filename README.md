@@ -16,6 +16,12 @@ International Service for the Geoid (ISG) (.txt)
 
 Eye4Software (.geo)
 
+Carlson Software (.gsf)
+
+Surfer V6 (.grd)
+
+NOAA VDatum (.gtx)
+
 
 GeoTiff (.tif) Can be downloaded from: https://data.linz.govt.nz/layer/53447-nz-quasigeoid-2016-raster/
 
